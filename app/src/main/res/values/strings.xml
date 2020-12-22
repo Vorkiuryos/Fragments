@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_text">Todas son ciertas</string>
+    <string name="onboarding0_text">El lol es malo</string>
+    <string name="onboarding1_text">El lol es bueno</string>
+    <string name="onboarding2_text">El lol es regulero</string>
+    <string name="onboarding_button">CIERTO</string>
+    <string name="skip_button">Skip</string>
+
+
+
+</resources>
